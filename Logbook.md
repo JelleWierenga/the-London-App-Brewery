@@ -42,3 +42,13 @@ split_bill = total_plus_tip / people_count
 print(f"Each person should pay: ${split_bill:.2f}")
 ```
 You can check out the code I used for Day 2 on [GitHub: Tip calculator](https://github.com/JelleWierenga/the-London-App-Brewery/tree/main/Tip%20Calculator).
+
+---
+# Day 3
+
+Today, I continued my journey with The London App Brewery's 100 Days of Code Challenge, and it was an adventurous day working on the "Treasure Island" project.
+
+You can check out the code I used for Day 3 on [GitHub: Treasure island](https://github.com/JelleWierenga/the-London-App-Brewery/tree/main/Treasure%20island).
+
+This project is an exciting text-based adventure game where the player's choices determine the outcome. I had to make decisions at crossroads, explore lakes, and face dark forests. It's not just about coding; it's about creating interactive experiences. Looking forward to what the next days will bring!
+
