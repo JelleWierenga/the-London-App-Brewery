@@ -20,3 +20,25 @@ You can check out the code I used for Day 1 on [GitHub: Band name generator](htt
 
 
 This code sample demonstrates how to use the `input()` function to collect user input and then combine the provided values to generate a band name.
+
+
+---
+# Day 2
+
+Today, I continued my coding journey with The London App Brewery's 100 Days of Code Challenge. I worked on a Tip Calculator, which is a handy tool to quickly calculate how much each person should pay when splitting a bill at a restaurant.
+
+Here's the Python code I used for the Tip Calculator:
+
+```python
+print("Welcome to the tip calculator.")
+total_bill = float(input("What was the total bill? "))
+tip_percentage = int(input("What percentage tip would you like to give? 10, 12, or 15? "))
+people_count = int(input("How many people to split the bill? "))
+
+tip_amount = total_bill * (tip_percentage / 100)
+total_plus_tip = total_bill + tip_amount
+split_bill = total_plus_tip / people_count
+
+print(f"Each person should pay: ${split_bill:.2f}")
+```
+You can check out the code I used for Day 2 on [GitHub: Tip calculator](https://github.com/JelleWierenga/the-London-App-Brewery/tree/main/Tip%20Calculator).
