@@ -76,3 +76,10 @@ Today i made a hangman game. that was tough to do, this was the first real chall
 I had to use everything i learned so far for this project. and i had to use 2 files for this, i like that. i have 1000 random words in the Words.py file and i did not need that in the main file so a second file it is.
 
 I bet you want to play the game now :). Dont worry you can find it here [Guthub: Hangman](https://github.com/JelleWierenga/the-London-App-Brewery/tree/main/Hangman)
+
+---
+# Day 8
+Today was fun, i got to use functions with input.  the Caesar cipher is a simple encryption technique that involves shifting each letter in a string by a specified number. For instance, if we choose a shift of 1 and input "abc," the output would be "bcd" because all the letters are shifted by 1. To decrypt the message, you'd shift the letters back by the same count.
+
+Do you want to write encrypted messages to your friends in school so the teacher does not know what is says.(ofcourse you do) then quick take a look here [Github: Ceaser Cipher](https://github.com/JelleWierenga/the-London-App-Brewery/tree/main/Ceaser%20Cipher)
+
