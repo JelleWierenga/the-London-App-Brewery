@@ -52,3 +52,16 @@ You can check out the code I used for Day 3 on [GitHub: Treasure island](https:/
 
 This project is an exciting text-based adventure game where the player's choices determine the outcome. I had to make decisions at crossroads, explore lakes, and face dark forests. It's not just about coding; it's about creating interactive experiences. Looking forward to what the next days will bring!
 
+---
+# Day 4
+Today i did day 4 of this challange. i made a Rock Paper Sissors game using if elif and else statments
+
+Check out what i made today here [Github: Rock Paper Sissors](https://github.com/JelleWierenga/the-London-App-Brewery/tree/main/Rock%20Paper%20Sissors)
+
+---
+# Day 5
+It is day 5 already and i am feeling great. today was all about while loops and for loops.
+
+The challange was to make a password generator that generates a password with random characterss form a list.
+
+Do you want to generate strong passwords?(ofcourse you do) check it out here [Github: Password generator](https://github.com/JelleWierenga/the-London-App-Brewery/tree/main/Password%20generator)
