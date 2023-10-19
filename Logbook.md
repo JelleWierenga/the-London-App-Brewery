@@ -65,3 +65,14 @@ It is day 5 already and i am feeling great. today was all about while loops and 
 The challange was to make a password generator that generates a password with random characterss form a list.
 
 Do you want to generate strong passwords?(ofcourse you do) check it out here [Github: Password generator](https://github.com/JelleWierenga/the-London-App-Brewery/tree/main/Password%20generator)
+
+---
+# Day 6
+I have not much to say today. i learned about functions and did some training online. it was fun :)
+
+---
+# Day 7
+Today i made a hangman game. that was tough to do, this was the first real challange i got and i liked it
+I had to use everything i learned so far for this project. and i had to use 2 files for this, i like that. i have 1000 random words in the Words.py file and i did not need that in the main file so a second file it is.
+
+I bet you want to play the game now :). Dont worry you can find it here [Guthub: Hangman](https://github.com/JelleWierenga/the-London-App-Brewery/tree/main/Hangman)
