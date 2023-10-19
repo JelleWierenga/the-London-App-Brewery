@@ -20,6 +20,6 @@ for number in range(numbers_input):
     get_number = random.choice(numbers)
     Temp_store = Temp_store + get_number
 
-str_var = list(Temp_store)
-random.shuffle(str_var)
-print(''.join(str_var))
+Password = list(Temp_store)
+random.shuffle(Password)
+print("Your generated password is:", ''.join(Password))
