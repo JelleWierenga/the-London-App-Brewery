@@ -22,4 +22,3 @@ class QuizBrain:
             print(f"You are bad at this :) your score is {self.score} out of {self.question_number}")
             print(f"The correct answer was {curr_ans}")
         print("\n")
-
